@@ -1,5 +1,5 @@
 <!-- Neon header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Aravind%20Krishna&fontAlign=40&fontAlignY=35&color=0:7F00FF,100:00E5FF&fontColor=ffffff&fontSize=56&animation=fadeIn" width="100%" alt="Header wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Aravind%20Arivudainambi&fontAlign=40&fontAlignY=35&color=0:7F00FF,100:00E5FF&fontColor=ffffff&fontSize=56&animation=fadeIn" width="100%" alt="Header wave" />
 
 <div align="center">
   <!-- Typing animation: Space Grotesk, weight 700, size 26, 2800ms duration, 500ms pause, neon cyan text -->
