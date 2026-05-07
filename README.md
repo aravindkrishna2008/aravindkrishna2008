@@ -17,7 +17,7 @@ Currently a graduating senior at Lynbrook High School. I like building things th
 |--------|-------------|-------|
 | NASA SpaceApps — global recognition | Solar storm impact predictor | Python · ML |
 | Hack Cupertino — 1st place | App for visually impaired pedestrians | Python · CV |
-| Robotics computer vision | Autonomous game piece detection (Halir-Flusser ellipse fitting) | Java · OpenCV · C++ |
+| Robotics computer vision | Autonomous game piece detection (Halir-Flusser ellipse fitting) | OpenCV · C++ |
 | ESG regression model | Research on predicting ESG scores from fiscal data | Python · PyTorch |
 
 ---
